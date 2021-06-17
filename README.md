@@ -2,7 +2,7 @@
 
 ## Introduction 👋
 
-**What is NumPy?**
+### What is NumPy?
 NumPy stands for numeric python which is a python package for the computation and processing of the multidimensional and single dimensional array elements.
 
 **Travis Oliphant** created NumPy package in 2005 by injecting the features of the ancestor module Numeric into another module Numarray.
@@ -13,7 +13,7 @@ NumPy provides various powerful data structures, implementing multi-dimensional 
 
 In this tutorial, we will go through the numeric python library NumPy.
 
-**The need of NumPy?**
+### The need of NumPy?
 With the revolution of data science, data analysis libraries like NumPy, SciPy, Pandas, etc. have seen a lot of growth. With a much easier syntax than other programming languages, python is the first choice language for the data scientist.
 
 NumPy provides a convenient and efficient way to handle the vast amount of data. NumPy is also very convenient with Matrix multiplication and data reshaping. NumPy is fast which makes it reasonable to work with a large set of data.
