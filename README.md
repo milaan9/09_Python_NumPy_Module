@@ -49,7 +49,16 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 [001_Python_NumPy](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/001_Python_NumPy.ipynb)
 
 
-[002_Python_NumPy_Array](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/002_Python_NumPy_Array.ipynb)
+[002_Python_NumPy_Array_Part1](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/002_Python_NumPy_Array_Part1.ipynb)
+
+
+[003_Python_NumPy_Array_Part2](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/003_Python_NumPy_Array_Part2.ipynb)
+
+
+[004_Python_NumPy_Array_Part3](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/004_Python_NumPy_Array_Part3.ipynb)
+
+
+[005_Python_NumPy_Array_Part4](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/005_Python_NumPy_Array_Part4.ipynb)
 
 
 [data](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/data.txt)
