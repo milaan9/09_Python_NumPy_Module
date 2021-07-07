@@ -1,4 +1,5 @@
 <p align="center"> 
+[![.](https://img.shields.io/static/v1?logo=github&label=maintainer&message=milaan9&color=Red)](https://github.com/milaan9) 
 <a href="https://github.com/milaan9"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=milaan9&color=Red" alt="Last Commit"/></a> 
 <img src="https://img.shields.io/github/last-commit/milaan9/09_Python_NumPy_Module.svg?colorB=orange&style=flat" alt="Last Commit"/> </a> 
 <a href="https://github.com/milaan9/09_Python_NumPy_Module/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/09_Python_NumPy_Module.svg?colorB=teal&style=flat" /></a> 
