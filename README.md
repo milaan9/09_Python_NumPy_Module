@@ -12,7 +12,7 @@
 </p> 
 <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
  
-[![PyPI download month](https://img.shields.io/pypi/dm/ansicolortags.svg)](https://github.com/milaan9/09_Python_NumPy_Module/archive/refs/heads/main.zip)
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/milaan9/09_Python_NumPy_Module/archive/refs/heads/main.zip)
 
 # 09_Python_NumPy_Module
 
