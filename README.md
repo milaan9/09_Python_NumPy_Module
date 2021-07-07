@@ -18,7 +18,7 @@
 ## Introduction 👋
 
 ### What is NumPy?
-NumPy stands for numeric python which is a python package for the computation and processing of the multidimensional and single dimensional array elements.
+[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) stands for numeric python which is a python package for the computation and processing of the multidimensional and single dimensional array elements.
 
 **Travis Oliphant** created NumPy package in 2005 by injecting the features of the ancestor module Numeric into another module Numarray.
 
@@ -73,7 +73,7 @@ These are online read-only versions.
 
 ### How can I thank you for writing and sharing this tutorial? 🌷
 
-You can <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=BC4E99" alt="Star Badge"/> Starring is free for you, but it tells me and other people that it was helpful and you like this tutorial.
+You can <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=if%20useful&style=style=flat&color=blue" alt="Star Badge"/> Starring is free for you, but it tells me and other people that it was helpful and you like this tutorial.
 
 Go [here](https://github.com/milaan9/09_Python_NumPy_Module) if you aren't here already and click the "⭐ Star" button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
 
