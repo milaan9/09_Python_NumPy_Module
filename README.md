@@ -18,7 +18,7 @@
 ## Introduction 👋
 
 ### What is NumPy?
-[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) stands for numeric python which is a python package for the computation and processing of the multidimensional and single dimensional array elements.
+[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)](https://numpy.org/) stands for numeric python which is a python package for the computation and processing of the multidimensional and single dimensional array elements.
 
 **Travis Oliphant** created NumPy package in 2005 by injecting the features of the ancestor module Numeric into another module Numarray.
 
