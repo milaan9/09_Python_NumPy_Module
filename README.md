@@ -2,6 +2,7 @@
 <a href="https://github.com/milaan9"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=milaan9&color=ff3300" alt="Last Commit"/></a> 
 <img src="https://img.shields.io/github/last-commit/milaan9/09_Python_NumPy_Module.svg?colorB=orange&style=flat" alt="Last Commit"/> </a> 
 <a href="https://github.com/milaan9/09_Python_NumPy_Module/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/09_Python_NumPy_Module.svg?colorB=teal&style=flat" /></a> 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F09_Python_NumPy_Module&count_bg=%2305E30F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F09_Python_NumPy_Module&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
 <a href="https://github.com/milaan9/09_Python_NumPy_Module/stargazers"><img src="https://img.shields.io/github/stars/milaan9/09_Python_NumPy_Module.svg?colorB=0040ff" alt="Stars Badge"/></a>
 <a href="https://github.com/milaan9/09_Python_NumPy_Module/network/members"><img src="https://img.shields.io/github/forks/milaan9/09_Python_NumPy_Module" alt="Forks Badge"/> </a>
