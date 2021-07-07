@@ -7,7 +7,7 @@
 <a href="https://github.com/milaan9/09_Python_NumPy_Module/network/members"><img src="https://img.shields.io/github/forks/milaan9/09_Python_NumPy_Module" alt="Forks Badge"/> </a>
 <img src="https://img.shields.io/github/repo-size/milaan9/09_Python_NumPy_Module.svg?colorB=CC66FF&style=flat" alt="Size"/>
 <a href="https://github.com/milaan9/09_Python_NumPy_Module/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/09_Python_NumPy_Module.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/milaan9/09_Python_NumPy_Module/issues"><img src="https://img.shields.io/github/issues/milaan9/09_Python_NumPy_Module.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
+<a href="https://github.com/milaan9/09_Python_NumPy_Module/issues"><img src="https://img.shields.io/github/issues/milaan9/09_Python_NumPy_Module.svg?colorB=ffff00&style=flat" alt="Issues Badge"/></a>
 <img src="https://img.shields.io/github/languages/top/milaan9/09_Python_NumPy_Module.svg?colorB=996600&style=flat" alt="Language"/> </a> 
 </p> 
 <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
