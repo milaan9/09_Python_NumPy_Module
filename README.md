@@ -1,4 +1,3 @@
-[![.](https://img.shields.io/static/v1?logo=github&label=maintainer&message=milaan9&color=Red)](https://github.com/milaan9) 
 <p align="center"> 
 <a href="https://github.com/milaan9"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=milaan9&color=Red" alt="Last Commit"/></a> 
 <img src="https://img.shields.io/github/last-commit/milaan9/09_Python_NumPy_Module.svg?colorB=orange&style=flat" alt="Last Commit"/> </a> 
