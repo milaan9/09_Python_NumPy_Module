@@ -4,7 +4,7 @@
 <a href="https://github.com/milaan9/09_Python_NumPy_Module/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/09_Python_NumPy_Module.svg?colorB=teal&style=flat" /></a> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F09_Python_NumPy_Module&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
 <a href="https://github.com/milaan9/09_Python_NumPy_Module/stargazers"><img src="https://img.shields.io/github/stars/milaan9/09_Python_NumPy_Module" alt="Stars Badge"/></a>
-<a href="https://github.com/milaan9/09_Python_NumPy_Module/network/members"><img src="https://img.shields.io/github/forks/milaan9/09_Python_NumPy_Module" alt="Forks Badge"/> </a>
+<a href="https://github.com/milaan9/09_Python_NumPy_Module/network/members"><img src="https://img.shields.io/github/forks/milaan9/09_Python_NumPy_Module.svg?colorB=0000ff" alt="Forks Badge"/> </a>
 <img src="https://img.shields.io/github/repo-size/milaan9/09_Python_NumPy_Module.svg?colorB=CC66FF&style=flat" alt="Size"/>
 <a href="https://github.com/milaan9/09_Python_NumPy_Module/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/09_Python_NumPy_Module.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/milaan9/09_Python_NumPy_Module/issues"><img src="https://img.shields.io/github/issues/milaan9/09_Python_NumPy_Module.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
