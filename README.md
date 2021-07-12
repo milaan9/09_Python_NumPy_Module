@@ -65,6 +65,9 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 [data](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/data.txt)
 
 
+[Python_Numpy_Exercises_with_hints](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/Python_Numpy_Exercises_with_hints.ipynb)
+
+
 [NumPy Cheat Sheet Data Analysis in Python.pdf](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/NumPy%20Cheat%20Sheet%20Data%20Analysis%20in%20Python.pdf)
 
 
