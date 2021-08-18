@@ -77,6 +77,18 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 
 These are online read-only versions.
 
+---
+
+## Install Numpy Module:
+
+Open your [![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=flate&logo=anaconda&logoColor=white)](https://www.continuum.io/downloads) Prompt <img alt="propmt" src="https://img.shields.io/badge/-__-000000?style=flat-square&logo=Plex&logoColor=white"> and type and run the following command (individually):
+
+ -       pip install numpy  
+ 
+
+Once Installed now we can import it inside our python code.
+
+---    
 
 ## Frequently asked questions ❔
 
