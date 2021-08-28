@@ -47,6 +47,7 @@ There are the following advantages of using NumPy for data analysis.
 
 Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replacement to MATLAB as Python is more complete and easier programming language than MATLAB.
 
+---
 
 ## Table of contents 📋
 
@@ -85,6 +86,8 @@ You can <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=if%20
 
 Go [here](https://github.com/milaan9/09_Python_NumPy_Module) if you aren't here already and click the "⭐ Star" button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
 
+---
+
 ### How can I read this tutorial without an Internet connection? 🤔
 
 1. Go [here](https://github.com/milaan9/09_Python_NumPy_Module) if you aren't here already.
@@ -103,6 +106,7 @@ This will clear all the outputs and now you can understand each statement and le
 
 If you have git and you know how to use it, you can also clone the repository instead of downloading a zip and extracting it. An advantage with doing it this way is that you don't need to download the whole tutorial again to get the latest version of it, all you need to do is to pull with git and run ipython notebook again.
 
+---
 
 ## Authors ✍️
 
@@ -114,6 +118,7 @@ If you have trouble with this tutorial please tell me about it by [Create an iss
 
 If you like this tutorial, please [give it a ⭐ star](https://github.com/milaan9/09_Python_NumPy_Module).
 
+---
 
 ## Licence 📜
 
