@@ -53,10 +53,10 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 | **No.** | **Name** | 
 | ------- | -------- | 
 | 01 | **[Python_NumPy](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/001_Python_NumPy.ipynb)** |
-| 02 | **[002_Python_NumPy_Array_Part1](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/002_Python_NumPy_Array_Part1.ipynb)** |
-| 03 | **[003_Python_NumPy_Array_Part2](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/003_Python_NumPy_Array_Part2.ipynb)** |
-| 04 | **[004_Python_NumPy_Array_Part3](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/004_Python_NumPy_Array_Part3.ipynb)** |
-| 05 | **[005_Python_NumPy_Array_Part4](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/005_Python_NumPy_Array_Part4.ipynb)** |
+| 02 | **[Python_NumPy_Array_Part1](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/002_Python_NumPy_Array_Part1.ipynb)** |
+| 03 | **[Python_NumPy_Array_Part2](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/003_Python_NumPy_Array_Part2.ipynb)** |
+| 04 | **[Python_NumPy_Array_Part3](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/004_Python_NumPy_Array_Part3.ipynb)** |
+| 05 | **[Python_NumPy_Array_Part4](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/005_Python_NumPy_Array_Part4.ipynb)** |
 |    | **[data](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/data.txt)** |
 | 06 | **[Python_Numpy_Exercises_with_hints](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/Python_Numpy_Exercises_with_hints.ipynb)** |
 | 07 | **[NumPy Cheat Sheet Data Analysis in Python.pdf](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/NumPy%20Cheat%20Sheet%20Data%20Analysis%20in%20Python.pdf)** |
