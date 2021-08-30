@@ -26,7 +26,7 @@
 
 **Travis Oliphant** created NumPy package in 2005 by injecting the features of the ancestor module Numeric into another module Numarray.
 
-It is an extension module of Python which is mostly written in C. It provides various functions which are capable of performing the numeric computations with a high speed.
+It is an extension module of Python which is mostly written in "C". It provides various functions which are capable of performing the numeric computations with a high speed.
 
 NumPy provides various powerful data structures, implementing multi-dimensional arrays and matrices. These data structures are used for the optimal computations regarding arrays and matrices.
 
