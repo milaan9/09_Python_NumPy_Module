@@ -61,8 +61,8 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 | 05 | **[Python_NumPy_Array_Part4](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/005_Python_NumPy_Array_Part4.ipynb)** |
 |    | **[data](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/data.txt)** |
 | 06 | **[Python_Numpy_Exercises_with_hints](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/Python_Numpy_Exercises_with_hints.ipynb)** |
-| 07 | **[NumPy Cheat Sheet Data Analysis in Python.pdf](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/NumPy%20Cheat%20Sheet%20Data%20Analysis%20in%20Python.pdf)** |
-| 08 | **[Python_Numpy_Exercises_with_hints](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/Python_Numpy_Exercises_with_hints.ipynb)** |
+| 07 | **[Python_Numpy_Exercises_with_hints](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/Python_Numpy_Exercises_with_hints.ipynb)** |
+| 08 | **[NumPy Cheat Sheet Data Analysis in Python.pdf](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/NumPy%20Cheat%20Sheet%20Data%20Analysis%20in%20Python.pdf)** |
 
 
 These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/09_Python_NumPy_Module/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>>
