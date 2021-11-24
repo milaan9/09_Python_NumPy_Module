@@ -65,7 +65,7 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 | 08 | **[NumPy Cheat Sheet Data Analysis in Python.pdf](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/NumPy%20Cheat%20Sheet%20Data%20Analysis%20in%20Python.pdf)** |
 
 
-These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/09_Python_NumPy_Module/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>>
+These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/09_Python_NumPy_Module/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
 
 ---
 
@@ -82,7 +82,7 @@ Once Installed now we can import it inside our python code.
 
 ## Frequently asked questions ❔
 
-### How can I thank you for writing and sharing this tutorial? 🌷
+### How can I thank you for writing and sharing this tutorial? 🌷❀✿ꕥꕤ💐☆
 
 You can <img src="https://img.shields.io/static/v1?label=%E2%AD%90 Star &message=if%20useful&style=style=flat&color=blue" alt="Star Badge"/> and <img src="https://img.shields.io/static/v1?label=%E2%B5%96 Fork &message=if%20useful&style=style=flat&color=blue" alt="Fork Badge"/> Starring and Forking is free for you, but it tells me and other people that it was helpful and you like this tutorial.
 
